@@ -4,7 +4,7 @@ http://www.rushkoff.com/books/program-or-be-programmed/
 
 
 
-#ESSENTIAL READING#
+# ESSENTIAL READING
 
 Innis, Harold. The Bias of Communication. Toronto: University of Toronto Press, 2008 (ﬁrst published in 1951).
 
@@ -38,13 +38,13 @@ Weiner, Norbert. The Human Use of Human Beings: Cybernetics and Society. Cambrid
 
 Zitrain, Jonathan. The Future of the Internet—And How to Stop It. New Haven: Yale University Press, 2009.
 
-DOCUMENTARIES
+# DOCUMENTARIES
 PBS: Frontline: Digital Nation, by Rachel Dretzen and Douglas Rushkoﬀ. Available streaming online at http://pbsdigitalnation.org.
 
 BBC: The Virtual Revolution. http://www.bbc.co.uk/virtualrevolution/.
 
 
-FREE RESOURCES TO LEARN PROGRAMMING:
+# FREE RESOURCES TO LEARN PROGRAMMING:
 
 Scratch — MIT’s site for kids, but easy enough for adults. http://scratch.mit.edu/
 
