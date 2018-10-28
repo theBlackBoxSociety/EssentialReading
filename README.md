@@ -4,7 +4,7 @@ http://www.rushkoff.com/books/program-or-be-programmed/
 
 
 
-#ESSENTIAL READING
+#ESSENTIAL READING#
 
 Innis, Harold. The Bias of Communication. Toronto: University of Toronto Press, 2008 (ﬁrst published in 1951).
 
@@ -42,6 +42,7 @@ DOCUMENTARIES
 PBS: Frontline: Digital Nation, by Rachel Dretzen and Douglas Rushkoﬀ. Available streaming online at http://pbsdigitalnation.org.
 
 BBC: The Virtual Revolution. http://www.bbc.co.uk/virtualrevolution/.
+
 
 FREE RESOURCES TO LEARN PROGRAMMING:
 
