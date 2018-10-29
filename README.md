@@ -49,7 +49,9 @@ BBC: The Virtual Revolution. http://www.bbc.co.uk/virtualrevolution/.
 Scratch — MIT’s site for kids, but easy enough for adults. http://scratch.mit.edu/
 
 Learn Python the Hard Way — A very accessible approach to a very useful computer language. http://learnpythonthehardway.com/index.
-Learning Processing — tutorials by Daniel Shiﬀman. http://www.learningprocessing.com
+
+Learning Processing — [tutorials by Daniel Shiffman](http://www.learningprocessing.com).
+Learning [p5.js](https://p5js.org/), a javascript library based on Processing - [Coding Train tuturials](https://thecodingtrain.com/Tutorials/) by Daniel Shiffman. 
 
 SIMPLE — Some Apple II developers wrote this beginners’ language back in 1995. http://www.simplecodeworks.com.
 
