@@ -39,23 +39,17 @@ Zitrain, Jonathan. The Future of the Internet—And How to Stop It. New Haven: Y
 # DOCUMENTARIES
 PBS: Frontline: Digital Nation, by Rachel Dretzen and Douglas Rushkoﬀ. Available streaming online at http://pbsdigitalnation.org.
 
-BBC: The Virtual Revolution. http://www.bbc.co.uk/virtualrevolution/.
+BBC: [The Virtual Revolution](http://www.bbc.co.uk/virtualrevolution/).
 
 
 # FREE RESOURCES TO LEARN PROGRAMMING:
 
-Scratch — MIT’s site for kids, but easy enough for adults. http://scratch.mit.edu/
+[Scratch](http://scratch.mit.edu/) — MIT’s site for kids, but easy enough for adults.
 
-Learn Python the Hard Way — A very accessible approach to a very useful computer language. http://learnpythonthehardway.com/index.
+[Learn Python the Hard Way](http://learnpythonthehardway.com/index) — A very accessible approach to a very useful computer language.
 
 Learning Processing — [tutorials by Daniel Shiffman](http://www.learningprocessing.com).
 
 Learning [p5.js](https://p5js.org/), a javascript library based on Processing - [Coding Train tuturials](https://thecodingtrain.com/Tutorials/) by Daniel Shiffman. 
 
-SIMPLE — Some Apple II developers wrote this beginners’ language back in 1995. http://www.simplecodeworks.com.
-
-Microsoft Tutorials on Visual Basic — Microsoft’s tutorials on how to learn Visual Basic are actually quite good for the beginner. http://msdn.microsof.com/en-us/vbasic/ms789097.aspx.
-
-LOGOS — For educators interested in a very easy programming language to teach elementary school children, visit http://www.terrapinlogo.com for a system to purchase or http://www.sofronix.com/logo.html for free resources. 
-
-For more up-to-date information, see http://rushkoﬀ.com/program.
+[SIMPLE](http://www.simplecodeworks.com) — Some Apple II developers wrote this beginners’ language back in 1995.
