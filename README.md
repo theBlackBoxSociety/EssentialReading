@@ -1,8 +1,4 @@
-This esseantial reading list is taken from the book "Program Or be Programmed: Ten Commands for a Digital Age" by Douglas Rushkoff (2010,2011 SoftSkull Press). 
-http://www.rushkoff.com/books/program-or-be-programmed/
-
-
-
+_This essential reading list started from the book "[Program Or be Programmed: Ten Commands for a Digital Age](http://www.rushkoff.com/books/program-or-be-programmed/)" by Douglas Rushkoff (2010,2011 SoftSkull Press). It will grow and evolve over time._
 
 # ESSENTIAL READING
 
@@ -27,6 +23,8 @@ Rushkoﬀ, Douglas. Cyberia: Life in the Trenches of Hyperspace. San Francisco: 
 Shiﬀman, Daniel. Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction. San Francisco: Morgan Kaufmann, 2008.
 
 Shirky, Clay. Here Comes Everybody. New York: Penguin, 2009.
+
+S. Raymond, Eric. [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html). O'Reilly Media, 1999.
 
 Stephenson, Neal. In the Beginning Was the Command Line. New York: HarperCollins, 1999.
 
@@ -61,4 +59,3 @@ Microsoft Tutorials on Visual Basic — Microsoft’s tutorials on how to learn 
 LOGOS — For educators interested in a very easy programming language to teach elementary school children, visit http://www.terrapinlogo.com for a system to purchase or http://www.sofronix.com/logo.html for free resources. 
 
 For more up-to-date information, see http://rushkoﬀ.com/program.
-
